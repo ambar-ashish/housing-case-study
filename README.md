@@ -13,7 +13,8 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 The company is looking at prospective properties to buy to enter the market. We are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
  
 
-Goals:
+## Business Goals
+
 Which variables are significant in predicting the price of a house.
 
 How well those variables describe the price of a house.

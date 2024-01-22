@@ -1,0 +1,8 @@
+Github repo:
+https://github.com/ambar-ashish/housing-case-study/
+
+Python file Link
+https://github.com/ambar-ashish/housing-case-study/blob/main/Housing.ipynb
+
+Subjective Answers Link
+https://github.com/ambar-ashish/housing-case-study/blob/main/Subjective_Answers.pdf
